@@ -1,0 +1,45 @@
+body{ background-image:url(img/99.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+ header{
+    size: 166px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+color:black;
+
+}
+button{ font-size: 50px;
+font-weight: 55px;
+background-color: bisque;
+  font-family: "Playwrite NZ Basic", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+border-radius: 66px;
+border:blueviolet ;
+border-bottom-right-radius: 25px;
+text-align: center;
+text-decoration: dashed;
+border-style:solid;
+border-color: black;}
+
+
+table{background-color: cornsilk;
+
+margin: 15px;
+}
+image{ size: 1px;
+
+}
+.mai{ background-color: brown;
+backface-visibility: visible;
+opacity:0.85;
+ transform-style: preserve-3d;
+text-align: center;
+text-transform: uppercase;
+animation-name: my button;
+animation-direction: 4s;
+animation: 5s infinite;
+animation-delay: 2s;
+}
